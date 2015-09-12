@@ -4,6 +4,4 @@ This is a simple tool to calculate reads number and total base count in FASTQ fi
 
 ## Usage
 
-./fqBaseSum <in.fq> (gziped supported)
-
-
+./fqBaseSum \<in.fq\>[.gz]   gziped fastq file supported
